@@ -1,0 +1,20 @@
+.lead{
+    font-family: 'noto-serif', serif;
+    font-size: 20px;
+}
+
+
+#headText{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
+
+#main{
+    background-color: rgb(245, 244, 242);
+}
+
+.head{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+
